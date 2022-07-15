@@ -30,5 +30,8 @@ This was the <a href="https://en.wikipedia.org/wiki/War_(card_game)">actual game
 <br>
 <br>
 <br>
+<em>*The GUI, Interactive model has to be developed.</em>
 <hr>
-<em>written by  <strong>@Surya_m369</strong>, <p>June,2022</p><em>
+<em>written by  
+<br>
+<strong>@Surya_m369</strong> <p>June,2022</p>
